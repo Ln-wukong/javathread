@@ -1,0 +1,1 @@
+sc create svnserve binpath= "G:\svnsever\Subversion\bin/svnserve.exe --service -r G:\svnsever\Subversion\code" displayname= "Subversion" depend= tcpip start= auto
